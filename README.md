@@ -25,8 +25,7 @@ Through this project, I learned how to create a simple and visually appealing pr
 Flexbox for Centering and Layout:
 I utilized Flexbox to center the content both horizontally and vertically. This helped in achieving a responsive and well-aligned layout.
 
-css
-Salin kode
+
 body {
 background-color: hsl(0, 0%, 8%);
 height: 100vh;
